@@ -1,0 +1,5 @@
+gradio
+paddlespeech==1.2.0
+#paddlepaddle-gpu==2.4.1.post117 -f https://www.paddlepaddle.org.cn/whl/linux/mkl/avx/stable.html
+soundfile
+yacs
